@@ -1,0 +1,132 @@
+{
+    "usuarios": [
+        {
+            "user_id": -1001799562153,
+            "rango": "supergroup",
+            "creditos": 999,
+            "anti_spam": 0,
+            "plan": "premium",
+            "warns": 0,
+            "registro": "2023-07-28",
+            "chat_id": "-1001799562153",
+            "plan_expire": "2023-11-05",
+            "last_message_time": "2023-07-28 19:32:56"
+        },
+        {
+            "user_id": 794482916,
+            "rango": "BRO",
+            "creditos": 999,
+            "anti_spam": 0,
+            "plan": "premium",
+            "warns": 0,
+            "registro": "2023-07-29",
+            "chat_id": "794482916",
+            "plan_expire": "2023-10-27",
+            "last_message_time": "2023-07-29 09:51:24"
+        },
+        {
+            "user_id": 1425540240,
+            "rango": "pro user",
+            "creditos": 13,
+            "anti_spam": 0,
+            "plan": "premium",
+            "warns": 0,
+            "registro": "2023-07-03",
+            "chat_id": "1425540240",
+            "plan_expire": "2023-08-10",
+            "last_message_time": "2023-08-01 08:12:28"
+        },
+        {
+            "user_id": 5812001238,
+            "rango": "free user",
+            "creditos": 0,
+            "anti_spam": 20,
+            "plan": "basico",
+            "warns": 0,
+            "registro": "2023-07-28",
+            "chat_id": "5812001238",
+            "plan_expire": "2024-12-01",
+            "last_message_time": "2023-07-28 14:34:50"
+        },
+        {
+            "user_id": 5829592958,
+            "rango": "free user",
+            "creditos": 0,
+            "anti_spam": 20,
+            "plan": "basico",
+            "warns": 0,
+            "registro": "2023-07-21",
+            "chat_id": "5829592958",
+            "plan_expire": "2024-12-01",
+            "last_message_time": "2023-07-21 12:09:56"
+        }
+    ],
+    "gates": [
+        {
+            "id": 1,
+            "gate": "au",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 2,
+            "gate": "pi",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 3,
+            "gate": "ch",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 4,
+            "gate": "bb",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 5,
+            "gate": "va",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 6,
+            "gate": "mn",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 7,
+            "gate": "bl",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 8,
+            "gate": "st",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 9,
+            "gate": "pz",
+            "estado": "si",
+            "comentario": null
+        },
+        {
+            "id": 10,
+            "gate": "pp",
+            "estado": "si",
+            "comentario": "very good"
+        },
+        {
+            "id": 12,
+            "gate": "sp",
+            "estado": "si",
+            "comentario": null
+        }
+    ]
+}
