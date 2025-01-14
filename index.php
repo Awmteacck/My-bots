@@ -7,8 +7,8 @@ require_once 'recursos/function.php';
 
 date_default_timezone_set('America/Lima');
 
-define('BOT_TOKEN', '6493593049:AAHk36nfVhelewkWWm28L8CcltgyPBeRghw');
-define('TELEGRAM_API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN);
+define('BOT_TOKEN', '7740237222:AAEUJJBK7iLOMYTsox9epp7iG2unPQvYXmY');
+define('TELEGRAM_API_URL', 'https://api.telegram.org/bot' . 7740237222:AAEUJJBK7iLOMYTsox9epp7iG2unPQvYXmY);
 
 
 // Manejo de mensajes de entrada
@@ -42,12 +42,12 @@ $callback_lastname = $update['callback_query']['from']['last_name'];
 
 
 
-$owner = "<a href='tg://user?id=1425540240'> Gato [”9“8”9“6]</a>";
+$owner = "<a href='tg://user?id=1425540240'> Gato [â€9â€œ8â€9â€œ6]</a>";
 
 
 
-$off = 'OFF ”9è2';
-$on = 'ON •0®8';
+$off = 'OFF â€9Ã¨2';
+$on = 'ON â€¢0Â®8';
 
 // Enviar una solicitud a la API de Telegram
 function sendRequest($method, $params = [])
@@ -139,7 +139,7 @@ function deleteMessage($chat_id, $message_id)
     return sendRequest('deleteMessage', $params);
 }
 
-// Enviar acci¨®n de chat (typing, uploading_photo, recording_video, etc.)
+// Enviar acciÂ¨Â®n de chat (typing, uploading_photo, recording_video, etc.)
 function sendChatAction($chat_id, $action)
 {
     $params = [
@@ -214,7 +214,7 @@ $pass = $passOptions[array_rand($passOptions)];
 
 include_once 'tools/boton.php';
 
-// L¨®gica del bot
+// LÂ¨Â®gica del bot
 
 $words = explode(' ', $message, 2);
 $firstWord = $words[0];
